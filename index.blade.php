@@ -3,7 +3,8 @@
  <h4>Rajkot Gujarat</h4>
 
 <ul>
-    <li>rajasthan</li>
+    
     <li>sikkim</li>
     <li> baroda </li>
+    
 </ul>
