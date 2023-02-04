@@ -5,14 +5,4 @@
 <ul>
     
     <li>sikkim</li>
-    <li> baroda </li>
-    
-</ul><hr>
-<ol>
-    <li>zerodha</li>
-    <li>upstox</li>
-</ol> 
-
-<p> fdf</p>
-<h1>dfd</h1>
-
+</ul>
